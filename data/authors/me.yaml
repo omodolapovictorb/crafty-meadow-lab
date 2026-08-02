@@ -6,7 +6,7 @@ name:
   given: "Omodolapo"
   family: "Babalola"
   alternate: "李胜"
-  pronunciation: "Li Sheng"
+  pronunciation: ""
   pronouns: "he/him"
   middle: "Victor"
 postnominals:
@@ -107,3 +107,4 @@ ids:
   orcid: "0000-0002-8420-4638"
   google_scholar: "qpQCEdgAAAAJ"
   research_gate: "Omodolapo-Babalola"
+  scopus: "60530582200"

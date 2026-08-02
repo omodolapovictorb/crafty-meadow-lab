@@ -1,26 +1,25 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
-date: '2017-01-01T00:00:00Z'
+title: "IEEE IoT Theory and Practice Seasonal School 2024"
+date: '2024-07-07T00:00:00Z'
 
-event_name: HugoBlox Showcase
-event_url: https://hugoblox.com
+event_name: IoT Seasonal School
+event_url: https://iot.ieee.org/education/seasonal-school.html
 
 location: Online & In-Person
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Durham University
+  city: Durham
+  postcode: 'DH1 3LE'
+  country: United Kingdom
 
-summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
+summary: The IEEE IoT Theory and Practice Seasonal School 2026 was a three-day educational event held from July 7 to 9, 2024, at Durham University in the United Kingdom to explore fundamental and emerging Internet of Things (IoT) concepts.
 abstract: |
-  Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
+  This seasonal school is sponsored by the IEEE Internet of Things Technical Community (IoT TC). It is designed to provide education on various theory and practical aspects relating to IoT. It will offer lectures, hands-on laboratories, and demonstrations to provide resources, information, and guidance to boost your learning in IoT.
 
 # Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
-event_all_day: false
+event_start: '2024-07-07T13:00:00Z'
+event_end: '2024-07-09T15:00:00Z'
+event_all_day: true
 
 authors:
   - me
